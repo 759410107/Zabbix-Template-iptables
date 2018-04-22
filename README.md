@@ -1,4 +1,4 @@
-# iptables
+# Zabbix Template iptables
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-iptables/blob/master/iptables/LICENSE)
 
 ## Overview
