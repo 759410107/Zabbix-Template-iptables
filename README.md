@@ -1,5 +1,5 @@
 # Zabbix Template iptables
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-iptables/blob/master/iptables/LICENSE)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-iptables/blob/master/LICENSE)
 
 ## Overview
 Monitoring iptables running status and nf_conntrack with Zabbix template.  
