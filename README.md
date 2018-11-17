@@ -13,10 +13,10 @@ Monitoring iptables running status and nf_conntrack with Zabbix template.
 - 4.0
 
 ## How to Install
-## UserParameter Config
+### UserParameter Config
 - Copy "UserParameter Config" file (conf) to /etc/zabbix/zabbix_agentd.d and restart Zabbix agent.  
 
-## Template
+### Template
 - Import the template file (xml) and assign it to the host monitored.
 
 ## Author
